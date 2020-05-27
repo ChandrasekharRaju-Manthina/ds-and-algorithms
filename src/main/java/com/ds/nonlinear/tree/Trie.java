@@ -1,24 +1,11 @@
 package com.ds.nonlinear.tree;
 
-import java.util.HashMap;
-import java.util.Map;
-
 public class Trie {
 
     private final TrieNode root;
 
     public Trie() {
         root = new TrieNode();
-    }
-
-    private static class TrieNode {
-        private Map<Character, TrieNode> children;
-        private boolean endOfWord;
-
-        TrieNode() {
-            this.children = new HashMap<>();
-        }
-
     }
 
     public void insert(String word) {

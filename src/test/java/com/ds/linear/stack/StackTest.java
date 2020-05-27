@@ -1,9 +1,8 @@
 package com.ds.linear.stack;
 
-import com.ds.nonlinear.tree.Trie;
 import org.junit.Test;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 public class StackTest {
 
