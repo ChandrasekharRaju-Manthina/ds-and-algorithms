@@ -21,7 +21,6 @@ public class TopologicalSort {
         }
 
         LinkedList<Integer> queue = new LinkedList<>();
-
         for (Map.Entry<Integer, Integer> job : dependencyCountMap.entrySet()) {
             if (job.getValue() == 0) {
                 queue.add(job.getKey());
