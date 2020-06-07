@@ -1,0 +1,27 @@
+inseralgorithm
+
+
+insert - O(logn)
+delete - O(logn)
+peek - O(1)
+
+
+insert:
+- add at the end
+- compare it with its parent and swap
+
+swiftUp
+
+delete
+- replace it with last node
+- swift down
+
+
+build up - nlog(n) or O(n)
+
+parent: i - 1 / 2
+
+left child: 2n + 1
+right child: 2n + 2
+
+
