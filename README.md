@@ -3,6 +3,7 @@
 | Name | Implementation|
 | ------------- | ------------- |
 | `Stack` | <ul><li>Stack</li><li>MinMaxStack</li></ul> |
+| `List` | <ul><li>DoubleLinkedList</li></ul> |
 | `Graph` | <ul><li>TopologicalSort</li><li>TopologicalSortDfs</li></ul> |
 | `Heap` | <ul><li>Minheap</li></ul> |
 | `Tree` | <ul><li>BinarySearchTree</li></ul> |
