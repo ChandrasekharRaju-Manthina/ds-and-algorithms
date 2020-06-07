@@ -8,7 +8,7 @@
 | `Tree` | <ul><li>BinarySearchTree</li></ul> |
 | `Trie` | <ul><li>Trie</li><li>SuffixTrie</li></ul> |
 
-# Sort
+# Sorting
 
 - BubbleSort
 - InsertionSort
@@ -20,4 +20,5 @@
 | ------------- | ------------- |
 | `KadanesAlgorithm` | Max array subsequence sum |
 | `LevenshteinDitance` | Finds String edit distance |
+| `StringPermutations` | Generates String permutations |
 
